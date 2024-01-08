@@ -18,5 +18,6 @@ When the user clicks the button in the above examples, the myFunction JavaScript
 
 If you encounter issues with the onclick event not triggering the function, it could be due to various reasons such as incorrect function name, overlapping elements, or improper usage of the onclick attribute. It's important to ensure that the function is properly defined and that there are no overlapping elements preventing the click event from being detected.
 
+https://github.com/RenuckaM/JS_Events/blob/main/Output1a.png?raw=true
 
 
