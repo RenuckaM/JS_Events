@@ -20,7 +20,7 @@ If you encounter issues with the onclick event not triggering the function, it c
 
 ![image](https://github.com/RenuckaM/JS_Events/assets/147283564/3de29140-8f8c-4f22-8d9e-3671529062ce)
 
-After Clicking "the time is", it appears like,
+After Clicking "The time is?", it appears like,
 
 ![image](https://github.com/RenuckaM/JS_Events/assets/147283564/59a2972f-3ec6-4585-b0f2-6c1227d3f0fd)
 
