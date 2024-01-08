@@ -4,7 +4,7 @@ JavaScript onclick HTML Events using HTML,CSS3 and JavaScript.
 The onclick event in JavaScript is used to execute a certain functionality when a button or any other HTML element is clicked. It allows the programmer to trigger a JavaScript function in response to a user's click. The onclick event can be added to an element using the onclick attribute in HTML or by using the addEventListener() method in JavaScript. Here is an example of using the onclick attribute in HTML:
 
 # HTML
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <button onclick="myFunction()">Click me</button>
 
 And here is an example of using the addEventListener() method in JavaScript:
