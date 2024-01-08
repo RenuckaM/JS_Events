@@ -5,14 +5,14 @@ The onclick event in JavaScript is used to execute a certain functionality when 
 
 # HTML
 
-<button onclick="myFunction()">Click me</button>
+      <button onclick="myFunction()">Click me</button>
 
 And here is an example of using the addEventListener() method in JavaScript:
 
 # JavaScript
 
-const button = document.querySelector("button");
-button.addEventListener("click", myFunction);
+      const button = document.querySelector("button");
+      button.addEventListener("click", myFunction);
 
 When the user clicks the button in the above examples, the myFunction JavaScript function will be executed. The onclick event is not limited to buttons and can be used with various other HTML elements to handle click events
 
